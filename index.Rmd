@@ -22,7 +22,7 @@ library(fontawesome)
 #### **Bio** 
 
 I am interested in gene regulation, cancer and bioinformatics.
-I love to travel and learn new things. 
+I love to travel, learn new things and read. 
 
 #### **Education**
 
