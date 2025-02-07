@@ -6,6 +6,10 @@ links:
     url: "https://github.com/celiapuente"
   - label: '`r fontawesome::fa(name = "envelope", fill = "steelblue")` Mail'
     url: "mailto:celiapuente09@gmail.com"
+  - label: '`r fontawesome::fa(name = "suitcase", fill = "steelblue")` CV [HTML]'
+    url: "cv_CPuente.html"
+  - label: '`r fontawesome::fa(name = "suitcase", fill = "steelblue")` CV [PDF]'
+    url: "CeliaPuente_cv.pdf"
 
 output:
   postcards::trestles
