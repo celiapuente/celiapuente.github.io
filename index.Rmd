@@ -22,15 +22,11 @@ library(fontawesome)
 #### **Bio** 
 
 I am interested in gene regulation, cancer and bioinformatics.
+I love to travel and learn new things. 
 
 #### **Education**
 
 **University stidues** | @[ENESJ-UNAM](https://lcgej.unam.mx)
 
-#### **Experience**
 
-
-
-
-[Transcriptome-guided annotation and functional classification of long non-coding RNAs in Arabidopsis thaliana](https://pubmed.ncbi.nlm.nih.gov/35982083/) | Github [Transcriptome-guided_lncRNA_annotation](https://github.com/RegRNALab/Transcriptome-guided_lncRNA_annotation) | Dr. @[Selene Fernandez-Valverde](https://twitter.com/SelFdz)
 
