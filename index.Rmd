@@ -25,11 +25,8 @@ I am interested in gene regulation, cancer and bioinformatics.
 
 #### **Experience**
 
-Member of the @[JAGUAR Project](https://twitter.com/PJaguarLATAM), @[R-ladies Morelia](https://www.facebook.com/profile.php?id=100093337606435), @[RIABIO](https://twitter.com/RiaBioNet), @[LupusRGMX](https://lupusrgmx.liigh.unam.mx/quienes-somos.html), @[CDSB Mexico](https://twitter.com/CDSBMexico) and @[ISCB RSG-Mexico](https://x.com/rsg_iscb_mexico?lang=es).
 
-Repository Contributions: 
 
-Webpage [Plants&Python](https://plantsandpython.github.io/PlantsAndPython/00_Opening_page.html) | Github [Plants&Python](https://github.com/PlantsAndPython/PlantsAndPython) | Dr. Daniel H. Chitwood, Dr. Robert VanBuren and Alejandra Rougon-Cardoso
 
 [Transcriptome-guided annotation and functional classification of long non-coding RNAs in Arabidopsis thaliana](https://pubmed.ncbi.nlm.nih.gov/35982083/) | Github [Transcriptome-guided_lncRNA_annotation](https://github.com/RegRNALab/Transcriptome-guided_lncRNA_annotation) | Dr. @[Selene Fernandez-Valverde](https://twitter.com/SelFdz)
 
